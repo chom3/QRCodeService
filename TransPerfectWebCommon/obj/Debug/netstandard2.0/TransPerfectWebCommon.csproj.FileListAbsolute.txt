@@ -1,0 +1,9 @@
+C:\Users\homco\source\repos\TransPerfectWebCommon\bin\Debug\netstandard2.0\TransPerfectWebCommon.deps.json
+C:\Users\homco\source\repos\TransPerfectWebCommon\bin\Debug\netstandard2.0\TransPerfectWebCommon.dll
+C:\Users\homco\source\repos\TransPerfectWebCommon\bin\Debug\netstandard2.0\TransPerfectWebCommon.pdb
+C:\Users\homco\source\repos\TransPerfectWebCommon\obj\Debug\netstandard2.0\TransPerfectWebCommon.csprojAssemblyReference.cache
+C:\Users\homco\source\repos\TransPerfectWebCommon\obj\Debug\netstandard2.0\TransPerfectWebCommon.AssemblyInfoInputs.cache
+C:\Users\homco\source\repos\TransPerfectWebCommon\obj\Debug\netstandard2.0\TransPerfectWebCommon.AssemblyInfo.cs
+C:\Users\homco\source\repos\TransPerfectWebCommon\obj\Debug\netstandard2.0\TransPerfectWebCommon.csproj.CoreCompileInputs.cache
+C:\Users\homco\source\repos\TransPerfectWebCommon\obj\Debug\netstandard2.0\TransPerfectWebCommon.dll
+C:\Users\homco\source\repos\TransPerfectWebCommon\obj\Debug\netstandard2.0\TransPerfectWebCommon.pdb
